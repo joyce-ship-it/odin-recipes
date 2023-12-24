@@ -1,0 +1,35 @@
+*{
+    background-color: #28262c;
+    color:#f9f5ff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:24px;
+}
+
+h1{
+    color:#59c3c3;
+    font-size: 44px;
+}
+
+h2{
+    color:#998fc7;
+    font-size: 32px;
+}
+
+h3{
+    color:#a03e99;
+}
+
+h4{
+    color:#f59ca9;
+}
+
+h1.home{
+    text-align: center;
+    font-size:154px;
+}
+
+.home a,
+.home li{
+    font-size: 44px;
+    text-align: center;
+}
