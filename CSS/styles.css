@@ -31,5 +31,13 @@ h1.home{
 .home a,
 .home li{
     font-size: 44px;
-    text-align: center;
+    text-align: left;
+}
+
+.list li, a{
+    padding: 10px;
+    background-color: black;
+    color:chartreuse;
+    width:500px;
+    margin: 0 auto;
 }
